@@ -12,6 +12,7 @@
 @media screen and (max-width: 710px) {
   .form { 
     width: 282px;
+ 
     padding: 25px 22px;
   }
 }
